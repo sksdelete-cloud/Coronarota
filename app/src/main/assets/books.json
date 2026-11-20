@@ -1,0 +1,170 @@
+{
+  "libros": [
+    {
+      "id": "magia_1",
+      "titulo": "Magia I: Fundamentos del Éter Fracturado",
+      "categoria": "Arcano",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo I — La Grieta en la Vigilia",
+          "paginas": [
+            {
+              "titulo": "Sobre la permeabilidad del velo",
+              "texto": "Todo estudiante que ose pronunciar las sílabas del Primer Umbral debe comprender que el éter no obedece a la voluntad humana: simplemente tolera nuestra presencia mientras la geometría del recinto permanezca intacta.\n\nCuando la corona solar se quiebra en el horizonte interior, la mente percibe ecos de estancias que no existen en el plano arquitectónico. No trace círculos con tiza húmeda ni pronuncie nombres propios durante la vigilia de la tarde; las paredes de esta mansión conservan memoria acústica."
+            },
+            {
+              "titulo": "Primeras señales de resonancia",
+              "texto": "Si la tinta del diario comienza a humedecerse sin fuente visible o si las agujas metálicas apuntan hacia el sótano, suspenda la lectura de inmediato. La absorción de conocimiento arcano exige tres lecturas completas para estabilizar el enlace sin fracturar la cordura del lector."
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo II — Trazos de Contención",
+          "paginas": [
+            {
+              "titulo": "El sello de tres vértices",
+              "texto": "Antes de canalizar energía residual, dibuje mentalmente tres vértices equidistantes. Este ejercicio estabiliza el pulso cardíaco y reduce el desgaste físico tras una exposición prolongada a las flores azules del ala de servicio.\n\nRecuerde: ningún conjuro menor sustituye a una puerta cerrada con llave."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magia_2",
+      "titulo": "Magia II: Resonancias y Umbrales",
+      "categoria": "Arcano",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo I — Acústica de las Estancias Cerradas",
+          "paginas": [
+            {
+              "titulo": "Por qué los pasillos cambian de longitud",
+              "texto": "En los tratados de segundo grado se demuestra que la distancia entre el Pasillo Norte y el Teatro no es constante durante la velada. Las vibraciones producidas por instrumentos de cuerda alteran la densidad del aire y abren atajos efímeros.\n\nQuien intente forzar un umbral sin conocer su salida natural quedará atrapado entre ecos repetidos de su propia voz."
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo II — El Reflejo en Plata",
+          "paginas": [
+            {
+              "titulo": "Propiedades especulares",
+              "texto": "Los espejos antiguos de plata bruñida no reflejan únicamente la luz de las lámparas; retienen durante varios minutos la silueta de aquello que caminó detrás del observador. Úselos únicamente para examinar rincones oscuros sin dar la espalda a la salida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magia_5",
+      "titulo": "Magia V: La Corona Rota y el Abismo",
+      "categoria": "Prohibido",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo I — Liturgia del Quinto Sello",
+          "paginas": [
+            {
+              "titulo": "Advertencia preliminar",
+              "texto": "Este volumen no debería hallarse fuera de la bóveda sellada de la Biblioteca. Las páginas centrales muestran quemaduras recientes y anotaciones marginales escritas con una caligrafía temblorosa que coincide con la de antiguos huéspedes desaparecidos.\n\nQuien domina el quinto grado comprende que la Corona Rota no es un objeto, sino una deuda gravitacional suspendida sobre la casa."
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo II — Sacrificio y Rendición",
+          "paginas": [
+            {
+              "titulo": "El peso de la soga ritual",
+              "texto": "Ciertos artefactos vinculados al quinto círculo —como la Soga de la Rendición— absorben el impacto fatal destinado a su portador a cambio de reducir drásticamente su vitalidad residual. Nadie sobrevive a dos invocaciones directas sin auxilio médico."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "invocacion_1",
+      "titulo": "Invocación I: Nombres que Responden",
+      "categoria": "Invocación",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo I — Protocolo de Llamada",
+          "paginas": [
+            {
+              "titulo": "La regla del testigo presente",
+              "texto": "Toda invocación requiere un recinto acústicamente aislado o un escenario amplio donde la voz pueda disiparse. El Teatro y la Cabina Insonorizada cumplen requisitos opuestos: uno amplifica la presencia, el otro la contiene.\n\nJamás pronuncie un nombre de invocación si hay compañeros inconscientes en la misma estancia."
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo II — Vínculos de Hilo y Madera",
+          "paginas": [
+            {
+              "titulo": "Sobre las marionetas y los autómatas",
+              "texto": "Las entidades menores prefieren recipientes articulados antes que carne viva. Por ello, los restos de marionetas y los autómatas domésticos como los robots de cocina o biblioteca muestran comportamientos erráticos tras el anochecer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enfermeria_1",
+      "titulo": "Enfermería I: Primeros Auxilios en Aislamiento",
+      "categoria": "Medicina",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo I — Estabilización de Traumas",
+          "paginas": [
+            {
+              "titulo": "Atención a sujetos inconscientes",
+              "texto": "Cuando un explorador cae por debajo de su umbral de consciencia (HP bajo o colapso nervioso), la prioridad absoluta es despejar las vías respiratorias y trasladarlo lejos de vapores químicos.\n\nUn botiquín estándar permite restaurar entre 4 y 6 puntos de vitalidad si se aplica sin interrupciones hostiles."
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo II — Intoxicación por Esporas Azules",
+          "paginas": [
+            {
+              "titulo": "Síntomas en la Zona de Limpieza",
+              "texto": "Las flores azules que crecen junto a los conductos húmedos liberan un polen luminiscente. Provoca euforia breve seguida de parálisis muscular y pérdida súbita de pulso. Lavar la piel con agua limpia y evitar inhalarlo cerca de las lavadoras en marcha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "criaturas_1",
+      "titulo": "Criaturas Mágicas I: Bestiario del Sótano",
+      "categoria": "Bestiario",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo I — La Masa del Subsuelo",
+          "paginas": [
+            {
+              "titulo": "Registro de avistamientos",
+              "texto": "En los niveles inferiores habita una masa de carne amorfa que imita fragmentos de conversaciones oídas horas atrás. Carece de visión directa, pero reacciona con violencia ante pasos apresurados y vibraciones metálicas.\n\nNo intente dialogar con ella a menos que busque distraerla mientras otro superviviente escapa por las escaleras."
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo II — Marionetas Errantes",
+          "paginas": [
+            {
+              "titulo": "Comportamiento tras el deceso del dueño",
+              "texto": "Cuando un titiritero perece dentro del perímetro de la Corona Rota, sus marionetas conservan un residuo motor. Suelen patrullar pasillos penumbrosos repitiendo los últimos gestos de su portador."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

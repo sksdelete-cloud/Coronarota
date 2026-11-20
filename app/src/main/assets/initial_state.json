@@ -1,0 +1,26 @@
+{
+  "dia": "MAÑANA",
+  "turnoGlobal": 1,
+  "jugadores": [
+    {"id":"isaac-1","nombre":"Isaac","habitacion":"Habitación 1","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Isaac","Diario personal-Isaac"],"exp":{}},
+    {"id":"dorian-2","nombre":"Dorian","habitacion":"Habitación 2","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Dorian","Diario personal-Dorian"],"exp":{}},
+    {"id":"celin-3","nombre":"Celin","habitacion":"Habitación 3","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Celin","Diario personal-Celin"],"exp":{}},
+    {"id":"silas-4","nombre":"Silas","habitacion":"Habitación 4","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Silas","Diario personal-Silas"],"exp":{}},
+    {"id":"vance-5","nombre":"Vance","habitacion":"Habitación 5","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Vance","Diario personal-Vance"],"exp":{}},
+    {"id":"lyra-6","nombre":"Lyra","habitacion":"Habitación 6","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Lyra","Diario personal-Lyra"],"exp":{}},
+    {"id":"kael-7","nombre":"Kael","habitacion":"Habitación 7","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Kael","Diario personal-Kael"],"exp":{}},
+    {"id":"rurik-8","nombre":"Rurik","habitacion":"Habitación 8","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Rurik","Diario personal-Rurik"],"exp":{}},
+    {"id":"hana-9","nombre":"Hana","habitacion":"Habitación 9","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Hana","Diario personal-Hana"],"exp":{}},
+    {"id":"mara-10","nombre":"Mara","habitacion":"Habitación 10","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Mara","Diario personal-Mara"],"exp":{}},
+    {"id":"bram-11","nombre":"Bram","habitacion":"Habitación 11","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Bram","Diario personal-Bram"],"exp":{}},
+    {"id":"felix-12","nombre":"Félix","habitacion":"Habitación 12","hp":20,"hpMax":20,"estado":"ACTIVO","inventario":["Llave de dormitorio-Félix","Diario personal-Félix"],"exp":{}}
+  ],
+  "objetosVisibles": {
+    "Biblioteca": ["robot bibliotecario","libros","torretas"],
+    "Cocina": ["ollas","cuchillos","manual de cocina","robot CV-9"],
+    "Zona de Limpieza": ["lavadoras","químicos","flores azules","botiquín"],
+    "Teatro": ["escenario","butacas","cabina insonorizada","camarín"],
+    "Sala de Música": ["consola de mezclas","tocadiscos","micrófonos","cabina insonorizada"],
+    "Sótano": ["panel de control","almacén de chatarra","celda de Nicel"]
+  }
+}

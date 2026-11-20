@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base oscuro de la actividad única (Compose toma el control del renderizado) -->
+    <style name="Theme.EcosDeLaCoronaRota" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0D0D0D</item>
+        <item name="android:statusBarColor">#0D0D0D</item>
+        <item name="android:navigationBarColor">#121215</item>
+    </style>
+</resources>

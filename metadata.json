@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ecos de la Corona Rota",
+  "description": "Aplicación personal de gestión para partidas de rol de horror cósmico con Kotlin, Jetpack Compose y simulador interactivo de mesa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
